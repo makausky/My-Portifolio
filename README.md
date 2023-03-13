@@ -11,7 +11,9 @@ In this portifolio I am working exclusevly with the Python programming language,
   - Data cleaning;
   - Exploratory analysis;
   - Predictive analysis;
-  - Error measurement.
+  - Error measurement;
+  - Data display;
+  - Storytelling.
 
 For conclusions and results presentation, you can check the Marp file available in the "Conclusions" root.
 
