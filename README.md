@@ -1,9 +1,9 @@
 # My-Portifolio
-The repo contains a sample of my Data Analysis skills.
+The repo contains some samples of my Data Analysis skills.
 
 # Project description
 The goal of this project is to display some of the processes and methodologies I use when analyzing a data set.
-In this portifolio I am working exclusevly with the Python programming language, in the format of Jupyter notebooks. I'm also using as guidance some of the steps displayed in the book 'Practical Time Series Analysis', by Aileen Nielsen.
+In this portifolio I am working exclusevly with the Python programming language, in the format of Jupyter notebooks. I'm also using as guidance some of the best reference books, such as: 'Practical Time Series Analysis', by Aileen Nielsen; 'Python for Data Analysis', by Wes Mckinney; 'StoryTelling with Data', by Cole Nussbaumer.
 
 # Here you'll find techniques of:
   
@@ -15,6 +15,6 @@ In this portifolio I am working exclusevly with the Python programming language,
   - Data display;
   - Storytelling.
 
-For conclusions and results presentation, you can check the Marp file available in the "Conclusions" root.
+This portifolio is in constant development, but soon you'll be able to see some presentation for the conclusions and results on each different project.
 
 Thank you for passing by! :D
